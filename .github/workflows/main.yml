@@ -27,6 +27,6 @@ jobs:
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.TOKEN }}
+          github_token: ${{ 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}}
           branch: "master"
           repository: "defanggaabypn/Prak4-PWL-Webservice"
