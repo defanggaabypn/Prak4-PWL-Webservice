@@ -88129,7 +88129,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /**
   * ree-validate v3.3.1
-  * (c) 2020 Defangga Aby
+  * (c) 2020 Moeen Basra
   * @license MIT
   */
 // 
