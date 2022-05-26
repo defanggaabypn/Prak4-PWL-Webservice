@@ -1,6 +1,7 @@
 {
   "name": "laravel-react",
   "scripts": {
+    "homepage": "https://onecirclesoftware.com/frontend",
     "dev": "npm run development",
     "development": "mix",
     "watch": "mix watch",

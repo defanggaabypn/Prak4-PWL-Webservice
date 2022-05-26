@@ -553,12 +553,12 @@ function Header() {
         children: "Defangga Aby Vonega"
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("p", {
         className: "lead",
-        children: "Teknik Informatika"
+        children: "Master in Information Technology"
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("p", {
         className: "lead",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("i", {
-        
-        }), "{ Project Manager }"]
+          className: "fa fa-heart text-danger"
+        }), "{ PHP, JavaScript, Python, MySQL, MongoDB }"]
       })]
     })
   });
