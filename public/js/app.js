@@ -540,7 +540,7 @@ var Footer = function Footer() {
       className: "container",
       children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("p", {
         className: "m-0 text-center text-white",
-        children: ["Copyright \xA9 Defangga", moment__WEBPACK_IMPORTED_MODULE_1___default()().format('YYYY')]
+        children: ["Copyright \xA9 Defangga ", moment__WEBPACK_IMPORTED_MODULE_1___default()().format('YYYY')]
       })
     })
   });
@@ -644,7 +644,7 @@ function PrivateHeader(_ref) {
         children: "Home"
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(_NavItem__WEBPACK_IMPORTED_MODULE_2__.default, {
         path: "/articles",
-        children: "Portofolio"
+        children: "Portfolio"
       })]
     }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("ul", {
       className: "navbar-nav",
